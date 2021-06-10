@@ -1,0 +1,96 @@
+#container{
+    width: 1200px;
+    height: 700px;
+    display: flex;
+}
+#car1
+{
+    background-color: blue;
+    height: 100px;
+    width: 120px;
+    margin-bottom: 50px;
+    position: relative;
+    border-top-left-radius: 20px;
+    border-top-right-radius: 30px;
+}
+
+#car2{
+    background-color: yellow;
+    height: 100px;
+    width: 120px;
+    margin-bottom: 50px;
+    position: relative;
+    border-top-left-radius: 20px;
+    border-top-right-radius: 30px;
+}
+#car3
+{
+    background-color: red;
+    height: 100px;
+    width: 120px;
+    margin-bottom: 50px;
+    position: relative;
+    border-top-left-radius: 20px;
+    border-top-right-radius: 30px;
+}
+#car4
+{
+    background-color: green;
+    height: 100px;
+    width: 120px;
+    margin-bottom: 50px;
+    position: relative;
+    border-top-left-radius: 20px;
+    border-top-right-radius: 30px;
+}
+#top{
+    display: flex;
+}
+#bottom{
+    display: flex;
+}
+.window1{
+    background-color: purple;
+    height: 20px;
+    width: 20px;
+    margin: 15px;
+}
+.window2{
+    background-color: brown;
+    height: 20px;
+    width: 20px;
+    margin: 15px;  
+}
+.wheel1{
+    background-color: black;
+    border-radius: 50%;
+    height: 20px;
+    width: 20px;
+    margin-top: 20px;
+    margin-left: 15px;
+    margin-right: 15px;
+}
+.wheel2{
+    background-color: black;
+    border-radius: 50%;
+    height: 20px;
+    width: 20px;
+    margin-top: 20px;
+    margin-left: 15px;
+    margin-right: 15px;    
+}
+#line{
+    height: 5px;
+    margin: 10px;
+    background-color: white;
+}
+#road{
+    width: 1200px;
+    height: 700px;
+    background-color: gray;
+}
+#road2{
+    width: 200px;
+    height: 700px;
+    background-color: gray;
+}
